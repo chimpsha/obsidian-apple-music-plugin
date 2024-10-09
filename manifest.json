@@ -1,0 +1,10 @@
+{
+  "id": "apple-music-plugin",
+  "name": "Apple Music Plugin",
+  "version": "1.0.0",
+  "minAppVersion": "0.9.12",
+  "description": "Apple Musicのアルバム情報を挿入するプラグイン",
+  "author": "chimpsha",
+  "authorUrl": "https://github.com/chimpsha",
+  "isDesktopOnly": false
+}
